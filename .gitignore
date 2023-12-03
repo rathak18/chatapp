@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# OS generated files
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Built files
+dist/
+build/
+
+# Dependency directory
+jspm_packages/
+
+# Typescript config
+tsconfig.json
+
+# Visual Studio Code folder
+.vscode/
+
+# Database files
+*.db
+
+# MongoDB data directory
+data/
+
+# Temporary files
+*.tmp
+*.swp
+
+# System files
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# macOS
+.DS_Store
+
+# Windows
+Desktop.ini
+Thumbs.db
